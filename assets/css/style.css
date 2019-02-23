@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: grey;
+}
+
+.centerAlign {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 150%;
+}
+
+h1 {
+    color: white;
+    font-size: strong;
+}
