@@ -3,14 +3,22 @@ body {
     color: grey;
 }
 
-.centerAlign {
+
+img {
+    position: relative;
+    float: left;
+}
+
+#textBox {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 150%;
+    position: relative;
+    float: left;
 }
 
 h1 {
     color: white;
     font-size: strong;
 }
+
+
